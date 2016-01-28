@@ -1,0 +1,8 @@
+[package]
+name = "raven_renamer"
+version = "0.1.0"
+authors = ["cloudcalvin <cloudcalvin@me.com>"]
+
+[dependencies]
+regex = "0.1.8"
+# regex_macros = "0.1.8"
